@@ -1,0 +1,11 @@
+youareell/YouAreEll.class
+controllers/ServerController.class
+views/SimpleShell.class
+models/Id.class
+views/MessageTextView.class
+controllers/IdController.class
+views/IdTextView.class
+models/Message.class
+controllers/JsonString.class
+controllers/MessageController.class
+controllers/TransactionController.class
